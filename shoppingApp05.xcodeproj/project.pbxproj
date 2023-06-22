@@ -16,6 +16,9 @@
 		259EE22C2A40939F00926223 /* ImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259EE22B2A40939F00926223 /* ImageData.swift */; };
 		259EE22E2A40940D00926223 /* NearYouData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259EE22D2A40940D00926223 /* NearYouData.swift */; };
 		259EE2302A409BDA00926223 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259EE22F2A409BDA00926223 /* FruitCardView.swift */; };
+		259EE2322A41529000926223 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259EE2312A41529000926223 /* DetailsView.swift */; };
+		259EE2342A4152E200926223 /* TopSellingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259EE2332A4152E200926223 /* TopSellingView.swift */; };
+		259EE2362A43E92D00926223 /* NearYouView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259EE2352A43E92D00926223 /* NearYouView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +32,9 @@
 		259EE22B2A40939F00926223 /* ImageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageData.swift; sourceTree = "<group>"; };
 		259EE22D2A40940D00926223 /* NearYouData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearYouData.swift; sourceTree = "<group>"; };
 		259EE22F2A409BDA00926223 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		259EE2312A41529000926223 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		259EE2332A4152E200926223 /* TopSellingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopSellingView.swift; sourceTree = "<group>"; };
+		259EE2352A43E92D00926223 /* NearYouView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearYouView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +91,9 @@
 			children = (
 				259EE2282A3D031E00926223 /* HomeScreen.swift */,
 				259EE22F2A409BDA00926223 /* FruitCardView.swift */,
+				259EE2312A41529000926223 /* DetailsView.swift */,
+				259EE2332A4152E200926223 /* TopSellingView.swift */,
+				259EE2352A43E92D00926223 /* NearYouView.swift */,
 			);
 			path = HomeScreenViews;
 			sourceTree = "<group>";
@@ -170,9 +179,12 @@
 			files = (
 				259EE2292A3D031E00926223 /* HomeScreen.swift in Sources */,
 				259EE22E2A40940D00926223 /* NearYouData.swift in Sources */,
+				259EE2342A4152E200926223 /* TopSellingView.swift in Sources */,
 				259EE2262A3D028300926223 /* OnBoardingScreenView.swift in Sources */,
 				259EE21A2A3CFEDA00926223 /* ContentView.swift in Sources */,
 				259EE2302A409BDA00926223 /* FruitCardView.swift in Sources */,
+				259EE2362A43E92D00926223 /* NearYouView.swift in Sources */,
+				259EE2322A41529000926223 /* DetailsView.swift in Sources */,
 				259EE22C2A40939F00926223 /* ImageData.swift in Sources */,
 				259EE2182A3CFEDA00926223 /* shoppingApp05App.swift in Sources */,
 			);

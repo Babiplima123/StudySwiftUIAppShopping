@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct PlaceModel {
+struct PlacesModel {
     
     var id: Int
     var name: String
