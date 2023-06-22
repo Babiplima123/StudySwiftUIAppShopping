@@ -42,6 +42,8 @@ struct OnBoardingScreenView: View {
                 Spacer()
             }
             
+            .navigationBarTitle("")
+            .navigationBarBackButtonHidden()
             .navigationBarHidden(true)
         }
     }

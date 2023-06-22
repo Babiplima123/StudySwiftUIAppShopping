@@ -97,7 +97,7 @@ struct DetailsView: View {
                 Spacer()
                 Counter()
             }
-                        Image("bg")
+            Image("bg")
                 .resizable()
                 .frame(width: 350, height: 50, alignment: .center)
                 .cornerRadius(15)
